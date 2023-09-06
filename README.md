@@ -1,5 +1,6 @@
 # Damn Vulnerable Device Seminar
 Security Analysis on IoT using basic Pentesting Tools
+https://iotseminar.github.io/DamnVulnerableDevice/
 
 ## Requirements
 * VirtualBox
